@@ -1,11 +1,11 @@
-#include <stdio.h>
-#include <cstdlib>
-
+#include <iostream>
+using namespace std;
 
 int main(void)
 {
-    printf("hello cpp");
 
+    std::cout<<"hello"<<endl;
+    
     return 0;
 }
 
